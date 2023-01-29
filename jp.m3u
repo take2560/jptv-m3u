@@ -1,19 +1,19 @@
-#EXTM3U
-#EXTINF:-1 tvg-id="nhkg" tvg-name="NHK General" tvg-logo="https://raw.githubusercontent.com/trevorleung821/jptv-logo/main/nhkg.jpg" group-title="Japan",NHK General
+#EXTM3U x-tvg-url="http://path-to-xmltv/guide.xml
+#EXTINF:-1 tvg-id="NHKGeneralTV.jp" tvg-name="NHK General" tvg-logo="https://raw.githubusercontent.com/trevorleung821/jptv-logo/main/nhkg.jpg" group-title="Japan",NHK General
 http://redlabmcdn.s.llnwi.net/nv02/ryowa2hd/index.m3u8
-#EXTINF:-1 tvg-id="ntv" tvg-name="NTV" tvg-logo="https://raw.githubusercontent.com/trevorleung821/jptv-logo/main/ntv.jpg" group-title="Japan",NTV
+#EXTINF:-1 tvg-id="NipponTV.jp" tvg-name="NTV" tvg-logo="https://raw.githubusercontent.com/trevorleung821/jptv-logo/main/ntv.jpg" group-title="Japan",NTV
 http://redlabmcdn.s.llnwi.net/nv02/ryowa3hd/index.m3u8
-#EXTINF:-1 tvg-id="tbs" tvg-name="TBS" tvg-logo="https://raw.githubusercontent.com/trevorleung821/jptv-logo/main/tbs.jpg" group-title="Japan",TBS
+#EXTINF:-1 tvg-id="JORXDTV.jp" tvg-name="TBS" tvg-logo="https://raw.githubusercontent.com/trevorleung821/jptv-logo/main/tbs.jpg" group-title="Japan",TBS
 http://redlabmcdn.s.llnwi.net/nv02/ryowa5hd/index.m3u8
-#EXTINF:-1 tvg-id="fujitv" tvg-name="FujiTV" tvg-logo="https://raw.githubusercontent.com/trevorleung821/jptv-logo/main/fujitv.jpg" group-title="Japan",FujiTV
+#EXTINF:-1 tvg-id="JOCXDTV.jp" tvg-name="FujiTV" tvg-logo="https://raw.githubusercontent.com/trevorleung821/jptv-logo/main/fujitv.jpg" group-title="Japan",FujiTV
 http://redlabmcdn.s.llnwi.net/nv02/ryowa7hd/index.m3u8
-#EXTINF:-1 tvg-id="tvasahi" tvg-name="TV Asahi" tvg-logo="https://raw.githubusercontent.com/trevorleung821/jptv-logo/main/tvasahi.jpg" group-title="Japan",TV Asahi
+#EXTINF:-1 tvg-id="TVAsahi.jp" tvg-name="TV Asahi" tvg-logo="https://raw.githubusercontent.com/trevorleung821/jptv-logo/main/tvasahi.jpg" group-title="Japan",TV Asahi
 http://redlabmcdn.s.llnwi.net/nv02/ryowa4hd/index.m3u8
-#EXTINF:-1 tvg-id="tvtokyo" tvg-name="TV Tokyo" tvg-logo="https://raw.githubusercontent.com/trevorleung821/jptv-logo/main/tvtokyo.jpg" group-title="Japan",TV Tokyo
+#EXTINF:-1 tvg-id="JOTXDTV.jp" tvg-name="TV Tokyo" tvg-logo="https://raw.githubusercontent.com/trevorleung821/jptv-logo/main/tvtokyo.jpg" group-title="Japan",TV Tokyo
 http://redlabmcdn.s.llnwi.net/nv02/ryowa6hd/index.m3u8
-#EXTINF:-1 tvg-id="bs1" tvg-name="NHK BS1" tvg-logo="https://raw.githubusercontent.com/trevorleung821/jptv-logo/main/bs1.jpg" group-title="Japan",NHK BS1
+#EXTINF:-1 tvg-id="NHKBS1.jp" tvg-name="NHK BS1" tvg-logo="https://raw.githubusercontent.com/trevorleung821/jptv-logo/main/bs1.jpg" group-title="Japan",NHK BS1
 http://redlabmcdn.s.llnwi.net/nv02/bs01hd/index.m3u8
-#EXTINF:-1 tvg-id="bsp" tvg-name="NHK BSP" tvg-logo="https://raw.githubusercontent.com/trevorleung821/jptv-logo/main/bsp.jpg" group-title="Japan",NHK BSP
+#EXTINF:-1 tvg-id="NHKBSPremium.jp" tvg-name="NHK BSP" tvg-logo="https://raw.githubusercontent.com/trevorleung821/jptv-logo/main/bsp.jpg" group-title="Japan",NHK BSP
 http://redlabmcdn.s.llnwi.net/nv02/bs02hd/index.m3u8
-#EXTINF:-1 tvg-id="nhkwp" tvg-name="NHK World Premium" tvg-logo="" group-title="Japan",NHK World Premium
+#EXTINF:-1 tvg-id="NHKWorldPremium.jp" tvg-name="NHK World Premium" tvg-logo="" group-title="Japan",NHK World Premium
 https://nhkwlive-pre-in.webcdn.stream.ne.jp/hls/live/nhkwlive-pre/index_1M.m3u8
