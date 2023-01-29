@@ -1,19 +1,19 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="nhkg" tvg-name="NHK General" tvg-logo="https://raw.githubusercontent.com/trevorleung821/jptv-logo/main/nhkg.jpg" group-title="Japan",NHK General
-http://vodpro2.fjp2017.com:9083/query/wtkmHz1XU-dOl-so_i2LJmbdfTRnjriKtxMCz2Yfyr0=.m3u8?type=live&pageUrl=http%3A%2F%2Fplay.fujitv.live
+http://redlabmcdn.s.llnwi.net/nv02/ryowa2hd/index.m3u8
 #EXTINF:-1 tvg-id="ntv" tvg-name="NTV" tvg-logo="https://raw.githubusercontent.com/trevorleung821/jptv-logo/main/ntv.jpg" group-title="Japan",NTV
-http://vodpro2.fjp2017.com:9083/query/wtkmHz1XU-dOl-so_i2LJuEpSUkuOlcOYoJjnb3yjMM=.m3u8?type=live&pageUrl=http%3A%2F%2Fplay.fujitv.live
+http://redlabmcdn.s.llnwi.net/nv02/ryowa3hd/index.m3u8
 #EXTINF:-1 tvg-id="tbs" tvg-name="TBS" tvg-logo="https://raw.githubusercontent.com/trevorleung821/jptv-logo/main/tbs.jpg" group-title="Japan",TBS
-http://vodpro2.fjp2017.com:9083/query/wtkmHz1XU-dOl-so_i2LJqdXLv2d0COlVdNVSZsPLyU=.m3u8?type=live&pageUrl=http%3A%2F%2Fplay.fujitv.live
+http://redlabmcdn.s.llnwi.net/nv02/ryowa5hd/index.m3u8
 #EXTINF:-1 tvg-id="fujitv" tvg-name="FujiTV" tvg-logo="https://raw.githubusercontent.com/trevorleung821/jptv-logo/main/fujitv.jpg" group-title="Japan",FujiTV
-http://vodpro2.fjp2017.com:9083/query/wtkmHz1XU-dOl-so_i2LJrgCSauww-oSsjy6GjDgUlA=.m3u8?type=live&pageUrl=http%3A%2F%2Fplay.fujitv.live
+http://redlabmcdn.s.llnwi.net/nv02/ryowa7hd/index.m3u8
 #EXTINF:-1 tvg-id="tvasahi" tvg-name="TV Asahi" tvg-logo="https://raw.githubusercontent.com/trevorleung821/jptv-logo/main/tvasahi.jpg" group-title="Japan",TV Asahi
-http://vodpro2.fjp2017.com:9083/query/wtkmHz1XU-dOl-so_i2LJmjcJxQInawI86iuVqNCr1s=.m3u8?type=live&pageUrl=http%3A%2F%2Fplay.fujitv.live
+http://redlabmcdn.s.llnwi.net/nv02/ryowa4hd/index.m3u8
 #EXTINF:-1 tvg-id="tvtokyo" tvg-name="TV Tokyo" tvg-logo="https://raw.githubusercontent.com/trevorleung821/jptv-logo/main/tvtokyo.jpg" group-title="Japan",TV Tokyo
-http://vodpro2.fjp2017.com:9083/query/wtkmHz1XU-dOl-so_i2LJtnl-VlCHc3rcoYMvC_KZRE=.m3u8?type=live&pageUrl=http%3A%2F%2Fplay.fujitv.live
+http://redlabmcdn.s.llnwi.net/nv02/ryowa6hd/index.m3u8
 #EXTINF:-1 tvg-id="bs1" tvg-name="NHK BS1" tvg-logo="https://raw.githubusercontent.com/trevorleung821/jptv-logo/main/bs1.jpg" group-title="Japan",NHK BS1
-http://vodpro2.fjp2017.com:9083/query/wtkmHz1XU-dOl-so_i2LJvbKjxSICC_Yzx0lYH2b6HM=.m3u8?type=live&pageUrl=http%3A%2F%2Fplay.fujitv.live
+http://redlabmcdn.s.llnwi.net/nv02/bs01hd/index.m3u8
 #EXTINF:-1 tvg-id="bsp" tvg-name="NHK BSP" tvg-logo="https://raw.githubusercontent.com/trevorleung821/jptv-logo/main/bsp.jpg" group-title="Japan",NHK BSP
-http://vodpro2.fjp2017.com:9083/query/wtkmHz1XU-dOl-so_i2LJuA_ifycm3u77sAxRBKKcTw=.m3u8?type=live&pageUrl=http%3A%2F%2Fplay.fujitv.live
-#EXTINF:-1 tvg-id="tbsnews" tvg-name="TBS News" tvg-logo="https://raw.githubusercontent.com/trevorleung821/jptv-logo/main/tbsnews.jpg" group-title="Japan",TBS News
-http://vodpro2.fjp2017.com:9083/query/wtkmHz1XU-dOl-so_i2LJrGr-bV7lK3KKYeZU2ClC64=.m3u8?type=live&pageUrl=http%3A%2F%2Fplay.fujitv.live
+http://redlabmcdn.s.llnwi.net/nv02/bs02hd/index.m3u8
+#EXTINF:-1 tvg-id="nhkwp" tvg-name="NHK World Premium" tvg-logo="" group-title="Japan",NHK World Premium
+https://nhkwlive-pre-in.webcdn.stream.ne.jp/hls/live/nhkwlive-pre/index_1M.m3u8
