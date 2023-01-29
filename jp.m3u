@@ -15,5 +15,5 @@ http://redlabmcdn.s.llnwi.net/nv02/ryowa6hd/index.m3u8
 http://redlabmcdn.s.llnwi.net/nv02/bs01hd/index.m3u8
 #EXTINF:-1 tvg-id="NHKBSPremium.jp" tvg-name="NHK BSP" tvg-logo="https://raw.githubusercontent.com/trevorleung821/jptv-logo/main/bsp.jpg" group-title="Japan",NHK BSP
 http://redlabmcdn.s.llnwi.net/nv02/bs02hd/index.m3u8
-#EXTINF:-1 tvg-id="NHKWorldPremium.jp" tvg-name="NHK World Premium" tvg-logo="" group-title="Japan",NHK World Premium
+#EXTINF:-1 tvg-id="NHKWorldPremium.jp" tvg-name="NHK World Premium" tvg-logo="https://i.imgur.com/4ESi2La.png" group-title="Japan",NHK World Premium
 https://nhkwlive-pre-in.webcdn.stream.ne.jp/hls/live/nhkwlive-pre/index_1M.m3u8
