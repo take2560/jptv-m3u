@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/ja/tvguide.myjcom.jp.xml
+#EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/ja/tvguide.myjcom.jp.xml,https://iptv-org.github.io/epg/guides/en/epg.i-cable.com.xml
 #EXTINF:-1 tvg-id="NHKGeneralTV.jp" tvg-name="NHK General" tvg-logo="https://raw.githubusercontent.com/trevorleung821/jptv-logo/main/nhkg.jpg" group-title="Japan",NHK General
 http://redlabmcdn.s.llnwi.net/nv02/ryowa2hd/index.m3u8
 #EXTINF:-1 tvg-id="NipponTV.jp" tvg-name="NTV" tvg-logo="https://raw.githubusercontent.com/trevorleung821/jptv-logo/main/ntv.jpg" group-title="Japan",NTV
@@ -15,6 +15,18 @@ http://redlabmcdn.s.llnwi.net/nv02/ryowa6hd/index.m3u8
 http://redlabmcdn.s.llnwi.net/nv02/bs01hd/index.m3u8
 #EXTINF:-1 tvg-id="NHKBSPremium.jp" tvg-name="NHK BSP" tvg-logo="https://raw.githubusercontent.com/trevorleung821/jptv-logo/main/bsp.jpg" group-title="Japan",NHK BSP
 http://redlabmcdn.s.llnwi.net/nv02/bs02hd/index.m3u8
+#EXTINF:-1 tvg-id="BSNipponTV.jp" tvg-name="BS NTV" tvg-logo="https://i.imgur.com/Zj3FywH.png" group-title="Japan",BS NTV
+http://redlabmcdn.s.llnwi.net/nv02/bs03hd/index.m3u8
+#EXTINF:-1 tvg-id="BSAsahi.jp" tvg-name="BS Asahi" tvg-logo="https://i.imgur.com/tYe90nA.png" group-title="Japan",BS Asahi
+http://redlabmcdn.s.llnwi.net/nv02/bs04hd/index.m3u8
+#EXTINF:-1 tvg-id="BSTBS.jp" tvg-name="BS TBS" tvg-logo="https://i.imgur.com/C3MK6Tx.png" group-title="Japan",BS TBS
+http://redlabmcdn.s.llnwi.net/nv02/bs05hd/index.m3u8
+#EXTINF:-1 tvg-id="BSTVTokyo.jp" tvg-name="BS TV Tokyo" tvg-logo="https://i.imgur.com/yJfA6ak.png" group-title="Japan",BS TV Tokyo
+http://redlabmcdn.s.llnwi.net/nv02/bs06hd/index.m3u8
+#EXTINF:-1 tvg-id="BSFuji.jp" tvg-name="BS Fuji TV" tvg-logo="https://i.imgur.com/LyrhEz0.png" group-title="Japan",BS Fuji TV
+http://redlabmcdn.s.llnwi.net/nv02/bs07hd/index.m3u8
+#EXTINF:-1 tvg-id="NTVNews24.jp" tvg-name="NTV News 24" tvg-logo="https://i.imgur.com/lbdQtOq.png" group-title="Japan",NTV News 24
+https://n24-cdn-live.ntv.co.jp/ch01/index.m3u8
 #EXTINF:-1 tvg-id="Weathernews.jp" tvg-name="Weathernews" tvg-logo="https://i.imgur.com/A8uRSTS.png" group-title="Japan",Weathernews
 http://movie.mcas.jp/mcas/wn1_2/master.m3u8
 #EXTINF:-1 tvg-id="NHKWorldJapan.jp" tvg-name="NHK World" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/NHK_World-Japan_TV.svg/512px-NHK_World-Japan_TV.svg.png" group-title="Japan",NHK World
