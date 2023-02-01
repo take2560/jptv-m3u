@@ -1,5 +1,3 @@
 #EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/zh/nowplayer.now.com.xml"
-#EXTINF:-1 tvg-id="NHKWorldPremium.jp" tvg-name="NHK World Premium" tvg-logo="https://i.imgur.com/4ESi2La.png" group-title="Japan",NHK World Premium
-https://nhkwlive-pre-in.webcdn.stream.ne.jp/hls/live/nhkwlive-pre/index_1M.m3u8
 #EXTINF:-1 tvg-id="nowNews.hk" tvg-name="now新聞台" tvg-logo="https://i.imgur.com/m6tWo9p.png" group-title="Hong Kong",Now新聞台
 https://cdn.hklive.tv/xxxx/332/index.m3u8
