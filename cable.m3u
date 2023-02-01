@@ -1,4 +1,6 @@
-#EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/zh/epg.i-cable.com.xml"
+#EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/zh/epg.i-cable.com.xml,https://iptv-org.github.io/epg/guides/en/epg.i-cable.com.xml"
+#EXTINF:-1 tvg-id="NHKWorldPremium.jp" tvg-name="NHK World Premium" tvg-logo="https://i.imgur.com/4ESi2La.png" group-title="Japan",NHK World Premium
+https://nhkwlive-pre-in.webcdn.stream.ne.jp/hls/live/nhkwlive-pre/index_1M.m3u8
 #EXTINF:-1 tvg-id="iCABLENewsChannel.hk" tvg-name="i-CABLE News Channel" tvg-logo="https://i.imgur.com/Xyxwrkr.png" group-title="Hong Kong",有線新聞台
 https://cdn.hklive.tv/xxxx/109/index.m3u8
 #EXTINF:-1 tvg-id="iCABLEFinanceInfoChannel.hk" tvg-name="i-CABLE Finance Info Channel" tvg-logo="https://i.imgur.com/L0Q9Xkf.png" group-title="Hong Kong",有線財經資訊台
