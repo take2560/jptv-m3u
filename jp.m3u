@@ -1,29 +1,29 @@
 #EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/ja/tvguide.myjcom.jp.xml,https://iptv-org.github.io/epg/guides/en/epg.i-cable.com.xml"
-#EXTINF:-1 tvg-id="NHKGeneralTV.jp" tvg-name="NHK General" tvg-logo="https://raw.githubusercontent.com/trevorleung821/jptv-logo/main/nhkg.jpg" group-title="Japan",NHK General
+#EXTINF:-1 tvg-id="NHKGeneralTV.jp" tvg-name="NHK General" tvg-logo="https://raw.githubusercontent.com/trevorleung821/jptv-logo/main/nhkg.jpg" group-title="Japan",NHK総合
 https://cdnul194.cloudrsst.com/live/kanto_nhk_g_1080/playlist.m3u8
-#EXTINF:-1 tvg-id="NipponTV.jp" tvg-name="NTV" tvg-logo="https://raw.githubusercontent.com/trevorleung821/jptv-logo/main/ntv.jpg" group-title="Japan",NTV
+#EXTINF:-1 tvg-id="NipponTV.jp" tvg-name="NTV" tvg-logo="https://raw.githubusercontent.com/trevorleung821/jptv-logo/main/ntv.jpg" group-title="Japan",日テレ
 https://cdnul194.cloudrsst.com/live/kanto_nippon_1080/playlist.m3u8
 #EXTINF:-1 tvg-id="JORXDTV.jp" tvg-name="TBS" tvg-logo="https://raw.githubusercontent.com/trevorleung821/jptv-logo/main/tbs.jpg" group-title="Japan",TBS
 https://cdnul194.cloudrsst.com/live/kanto_tbs_1080/playlist.m3u8
-#EXTINF:-1 tvg-id="JOCXDTV.jp" tvg-name="FujiTV" tvg-logo="https://raw.githubusercontent.com/trevorleung821/jptv-logo/main/fujitv.jpg" group-title="Japan",FujiTV
+#EXTINF:-1 tvg-id="JOCXDTV.jp" tvg-name="FujiTV" tvg-logo="https://raw.githubusercontent.com/trevorleung821/jptv-logo/main/fujitv.jpg" group-title="Japan",フジテレビ
 https://cdnul194.cloudrsst.com/live/kanto_fuji_1080/playlist.m3u8
-#EXTINF:-1 tvg-id="TVAsahi.jp" tvg-name="TV Asahi" tvg-logo="https://raw.githubusercontent.com/trevorleung821/jptv-logo/main/tvasahi.jpg" group-title="Japan",TV Asahi
+#EXTINF:-1 tvg-id="TVAsahi.jp" tvg-name="TV Asahi" tvg-logo="https://raw.githubusercontent.com/trevorleung821/jptv-logo/main/tvasahi.jpg" group-title="Japan",テレビ朝日
 https://cdnul194.cloudrsst.com/live/kanto_tv_asahi_1080/playlist.m3u8
-#EXTINF:-1 tvg-id="JOTXDTV.jp" tvg-name="TV Tokyo" tvg-logo="https://raw.githubusercontent.com/trevorleung821/jptv-logo/main/tvtokyo.jpg" group-title="Japan",TV Tokyo
+#EXTINF:-1 tvg-id="JOTXDTV.jp" tvg-name="TV Tokyo" tvg-logo="https://raw.githubusercontent.com/trevorleung821/jptv-logo/main/tvtokyo.jpg" group-title="Japan",テレビ東京
 https://cdnul194.cloudrsst.com/live/kanto_tv_tokyo_1080/playlist.m3u8
 #EXTINF:-1 tvg-id="NHKBS1.jp" tvg-name="NHK BS1" tvg-logo="https://raw.githubusercontent.com/trevorleung821/jptv-logo/main/bs1.jpg" group-title="Japan",NHK BS1
 https://cdnul194.cloudrsst.com/live/nhkbs1_720/playlist.m3u8
-#EXTINF:-1 tvg-id="NHKBSPremium.jp" tvg-name="NHK BSP" tvg-logo="https://raw.githubusercontent.com/trevorleung821/jptv-logo/main/bsp.jpg" group-title="Japan",NHK BSP
+#EXTINF:-1 tvg-id="NHKBSPremium.jp" tvg-name="NHK BSP" tvg-logo="https://raw.githubusercontent.com/trevorleung821/jptv-logo/main/bsp.jpg" group-title="Japan",NHK BSプレミアム
 https://cdnul194.cloudrsst.com/live/bspremium_720/playlist.m3u8
-#EXTINF:-1 tvg-id="BSNipponTV.jp" tvg-name="BS NTV" tvg-logo="https://i.imgur.com/Zj3FywH.png" group-title="Japan",BS NTV
+#EXTINF:-1 tvg-id="BSNipponTV.jp" tvg-name="BS NTV" tvg-logo="https://i.imgur.com/Zj3FywH.png" group-title="Japan",BS日テレ
 https://cdnul194.cloudrsst.com/live/bsnihontv_720/playlist.m3u8
-#EXTINF:-1 tvg-id="BSAsahi.jp" tvg-name="BS Asahi" tvg-logo="https://i.imgur.com/tYe90nA.png" group-title="Japan",BS Asahi
+#EXTINF:-1 tvg-id="BSAsahi.jp" tvg-name="BS Asahi" tvg-logo="https://i.imgur.com/tYe90nA.png" group-title="Japan",BS朝日
 https://cdnul194.cloudrsst.com/live/bsasahi_720/playlist.m3u8
-#EXTINF:-1 tvg-id="BSTBS.jp" tvg-name="BS TBS" tvg-logo="https://i.imgur.com/C3MK6Tx.png" group-title="Japan",BS TBS
+#EXTINF:-1 tvg-id="BSTBS.jp" tvg-name="BS TBS" tvg-logo="https://i.imgur.com/C3MK6Tx.png" group-title="Japan",BS-TBS
 https://cdnul194.cloudrsst.com/live/bstbs_720/playlist.m3u8
-#EXTINF:-1 tvg-id="BSTVTokyo.jp" tvg-name="BS TV Tokyo" tvg-logo="https://i.imgur.com/yJfA6ak.png" group-title="Japan",BS TV Tokyo
+#EXTINF:-1 tvg-id="BSTVTokyo.jp" tvg-name="BS TV Tokyo" tvg-logo="https://i.imgur.com/yJfA6ak.png" group-title="Japan",ＢＳテレ東
 https://cdnul194.cloudrsst.com/live/bsjapan_720/playlist.m3u8
-#EXTINF:-1 tvg-id="BSFuji.jp" tvg-name="BS Fuji TV" tvg-logo="https://i.imgur.com/LyrhEz0.png" group-title="Japan",BS Fuji TV
+#EXTINF:-1 tvg-id="BSFuji.jp" tvg-name="BS Fuji TV" tvg-logo="https://i.imgur.com/LyrhEz0.png" group-title="Japan",BSフジ
 https://cdnul194.cloudrsst.com/live/bsfuji_720/playlist.m3u8
 #EXTINF:-1 tvg-id="WOWOWPrime.jp" tvg-name="WOWOW Prime" tvg-logo="https://i.imgur.com/vACq7w8.png" group-title="Japan",WOWOW Prime
 https://cdnul194.cloudrsst.com/live/wowprime_720/playlist.m3u8
