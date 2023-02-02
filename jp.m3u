@@ -43,6 +43,8 @@ https://cdnul194.cloudrsst.com/live/jsports4_540/playlist.m3u8
 https://n24-cdn-live.ntv.co.jp/ch01/index.m3u8
 #EXTINF:-1 tvg-id="Weathernews.jp" tvg-name="Weathernews" tvg-logo="https://i.imgur.com/A8uRSTS.png" group-title="Japan",Weathernews
 http://movie.mcas.jp/mcas/wn1_2/master.m3u8
+#EXTINF:-1 tvg-id="JQuake.jp" tvg-name="JQuake" tvg-logo="https://i.imgur.com/EgZ2W9X.png" group-title="Japan",JQuake
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/watch?v=z--rbRvXOSs
 #EXTINF:-1 tvg-id="NHKWorldJapan.jp" tvg-name="NHK World" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/NHK_World-Japan_TV.svg/512px-NHK_World-Japan_TV.svg.png" group-title="Japan",NHK World
 https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
 #EXTINF:-1 tvg-id="CNNInternationalEurope.us" tvg-name="CNN International" tvg-logo="https://i.imgur.com/05S3yYZ.png" group-title="United States",CNN International
