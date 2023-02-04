@@ -39,6 +39,12 @@ https://cdnul194.cloudrsst.com/live/jsports2_720/playlist.m3u8
 https://cdnul194.cloudrsst.com/live/jsports3_540/playlist.m3u8
 #EXTINF:-1 tvg-id="JSports4.jp" tvg-name="J Sports 4" tvg-logo="https://i.imgur.com/fBcyZNL.png" group-title="Japan",J Sports 4
 https://cdnul194.cloudrsst.com/live/jsports4_540/playlist.m3u8
+#EXTINF:-1 tvg-id="Star1.jp" tvg-name="Star 1" tvg-logo="https://i.imgur.com/zzcztoQ.png" group-title="Japan",Star 1
+https://cdnul194.cloudrsst.com/live/starch1_720/playlist.m3u8
+#EXTINF:-1 tvg-id="Star2.jp" tvg-name="Star 2" tvg-logo="https://i.imgur.com/M5PpQss.png" group-title="Japan",Star 2
+https://cdnul194.cloudrsst.com/live/starch2_720/playlist.m3u8
+#EXTINF:-1 tvg-id="Star3.jp" tvg-name="Star 3" tvg-logo="https://i.imgur.com/77vu7v4.png" group-title="Japan",Star 3
+https://cdnul194.cloudrsst.com/live/starch3_720/playlist.m3u8
 #EXTINF:-1 tvg-id="NTVNews24.jp" tvg-name="NTV News 24" tvg-logo="https://i.imgur.com/lbdQtOq.png" group-title="Japan",NTV News 24
 https://n24-cdn-live.ntv.co.jp/ch01/index.m3u8
 #EXTINF:-1 tvg-id="TBSNews.jp" tvg-name="TBS News Dig" tvg-logo="https://raw.githubusercontent.com/trevorleung821/jptv-logo/main/tbsnews.jpg" group-title="Japan",TBS News Dig
