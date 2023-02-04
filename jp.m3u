@@ -1,6 +1,8 @@
 #EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/ja/tvguide.myjcom.jp.xml,https://iptv-org.github.io/epg/guides/en/epg.i-cable.com.xml"
 #EXTINF:-1 tvg-id="NHKGeneralTV.jp" tvg-name="NHK General" tvg-logo="https://raw.githubusercontent.com/trevorleung821/jptv-logo/main/nhkg.jpg" group-title="Japan",NHK総合
 https://cdnul194.cloudrsst.com/live/kanto_nhk_g_1080/playlist.m3u8
+#EXTINF:-1 tvg-id="NHKEducationalTV.jp" tvg-name="NHK Education" tvg-logo="https://i.imgur.com/H1XYhAt.png" group-title="Japan",NHKEテレ
+https://cdnul194.cloudrsst.com/live/kanto_nhk_edu_1080/playlist.m3u8
 #EXTINF:-1 tvg-id="NipponTV.jp" tvg-name="NTV" tvg-logo="https://raw.githubusercontent.com/trevorleung821/jptv-logo/main/ntv.jpg" group-title="Japan",日テレ
 https://cdnul194.cloudrsst.com/live/kanto_nippon_1080/playlist.m3u8
 #EXTINF:-1 tvg-id="JORXDTV.jp" tvg-name="TBS" tvg-logo="https://raw.githubusercontent.com/trevorleung821/jptv-logo/main/tbs.jpg" group-title="Japan",TBS
@@ -31,6 +33,14 @@ https://cdnul194.cloudrsst.com/live/wowprime_720/playlist.m3u8
 https://cdnul194.cloudrsst.com/live/wowlive_720/playlist.m3u8
 #EXTINF:-1 tvg-id="WOWOWCinema.jp" tvg-name="WOWOW Cinema" tvg-logo="https://i.imgur.com/Wx9fkCW.png" group-title="Japan",WOWOW Cinema
 https://cdnul194.cloudrsst.com/live/wowcinema_720/playlist.m3u8
+#EXTINF:-1 tvg-id="WowowPlus.jp" tvg-name="WOWOW Plus" tvg-logo="https://i.imgur.com/3U4JYD5.png" group-title="Japan",WOWOW Plus
+https://cdnul194.cloudrsst.com/live/cinefil_wowow_720/playlist.m3u8
+#EXTINF:-1 tvg-id="Star1.jp" tvg-name="Star 1" tvg-logo="https://i.imgur.com/zzcztoQ.png" group-title="Japan",Star 1
+https://cdnul194.cloudrsst.com/live/starch1_720/playlist.m3u8
+#EXTINF:-1 tvg-id="Star2.jp" tvg-name="Star 2" tvg-logo="https://i.imgur.com/M5PpQss.png" group-title="Japan",Star 2
+https://cdnul194.cloudrsst.com/live/starch2_720/playlist.m3u8
+#EXTINF:-1 tvg-id="Star3.jp" tvg-name="Star 3" tvg-logo="https://i.imgur.com/77vu7v4.png" group-title="Japan",Star 3
+https://cdnul194.cloudrsst.com/live/starch3_720/playlist.m3u8
 #EXTINF:-1 tvg-id="JSports1.jp" tvg-name="J Sports 1" tvg-logo="https://i.imgur.com/vEpjLnj.png" group-title="Japan",J Sports 1
 https://cdnul194.cloudrsst.com/live/jsports1_720/playlist.m3u8
 #EXTINF:-1 tvg-id="JSports2.jp" tvg-name="J Sports 2" tvg-logo="https://i.imgur.com/g1GLVH2.png" group-title="Japan",J Sports 2
@@ -39,12 +49,6 @@ https://cdnul194.cloudrsst.com/live/jsports2_720/playlist.m3u8
 https://cdnul194.cloudrsst.com/live/jsports3_540/playlist.m3u8
 #EXTINF:-1 tvg-id="JSports4.jp" tvg-name="J Sports 4" tvg-logo="https://i.imgur.com/fBcyZNL.png" group-title="Japan",J Sports 4
 https://cdnul194.cloudrsst.com/live/jsports4_540/playlist.m3u8
-#EXTINF:-1 tvg-id="Star1.jp" tvg-name="Star 1" tvg-logo="https://i.imgur.com/zzcztoQ.png" group-title="Japan",Star 1
-https://cdnul194.cloudrsst.com/live/starch1_720/playlist.m3u8
-#EXTINF:-1 tvg-id="Star2.jp" tvg-name="Star 2" tvg-logo="https://i.imgur.com/M5PpQss.png" group-title="Japan",Star 2
-https://cdnul194.cloudrsst.com/live/starch2_720/playlist.m3u8
-#EXTINF:-1 tvg-id="Star3.jp" tvg-name="Star 3" tvg-logo="https://i.imgur.com/77vu7v4.png" group-title="Japan",Star 3
-https://cdnul194.cloudrsst.com/live/starch3_720/playlist.m3u8
 #EXTINF:-1 tvg-id="NTVNews24.jp" tvg-name="NTV News 24" tvg-logo="https://i.imgur.com/lbdQtOq.png" group-title="Japan",NTV News 24
 https://n24-cdn-live.ntv.co.jp/ch01/index.m3u8
 #EXTINF:-1 tvg-id="TBSNews.jp" tvg-name="TBS News Dig" tvg-logo="https://raw.githubusercontent.com/trevorleung821/jptv-logo/main/tbsnews.jpg" group-title="Japan",TBS News Dig
