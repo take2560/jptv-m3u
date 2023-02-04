@@ -8,8 +8,7 @@ https://cdnul194.cloudrsst.com/live/kanto_tbs_1080/playlist.m3u8
 #EXTINF:-1 tvg-id="JOCXDTV.jp" tvg-name="FujiTV" tvg-logo="https://raw.githubusercontent.com/trevorleung821/jptv-logo/main/fujitv.jpg" group-title="Japan",フジテレビ
 https://cdnul194.cloudrsst.com/live/kanto_fuji_1080/playlist.m3u8
 #EXTINF:-1 tvg-id="TVAsahi.jp" tvg-name="TV Asahi" tvg-logo="https://raw.githubusercontent.com/trevorleung821/jptv-logo/main/tvasahi.jpg" group-title="Japan",テレビ朝日
-https://cdnul194.cloudrsst.com/live/kanto_tv_asahi_720/playlist.m3u8
-#https://github.com/trevorleung821/jptv-m3u/raw/dev/tvasahi.m3u8
+https://cdn.th136.jpnettv.live/live/kanto_tv_asahi_1080/playlist.m3u8
 #EXTINF:-1 tvg-id="JOTXDTV.jp" tvg-name="TV Tokyo" tvg-logo="https://raw.githubusercontent.com/trevorleung821/jptv-logo/main/tvtokyo.jpg" group-title="Japan",テレビ東京
 https://cdnul194.cloudrsst.com/live/kanto_tv_tokyo_1080/playlist.m3u8
 #EXTINF:-1 tvg-id="NHKBS1.jp" tvg-name="NHK BS1" tvg-logo="https://raw.githubusercontent.com/trevorleung821/jptv-logo/main/bs1.jpg" group-title="Japan",NHK BS1
