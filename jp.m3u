@@ -9,6 +9,8 @@ https://cdnul194.cloudrsst.com/live/kanto_tbs_1080/playlist.m3u8
 https://cdnul194.cloudrsst.com/live/kanto_fuji_1080/playlist.m3u8
 #EXTINF:-1 tvg-id="TVAsahi.jp" tvg-name="TV Asahi" tvg-logo="https://raw.githubusercontent.com/trevorleung821/jptv-logo/main/tvasahi.jpg" group-title="Japan",テレビ朝日
 https://cdnul194.cloudrsst.com/live/kanto_tv_asahi_1080/playlist.m3u8
+#EXTINF:-1 tvg-id="TVAsahi.jp" tvg-name="TV Asahi (720)" tvg-logo="https://raw.githubusercontent.com/trevorleung821/jptv-logo/main/tvasahi.jpg" group-title="Japan",テレビ朝日 (720)
+https://cdnul194.cloudrsst.com/live/kanto_tv_asahi_720/playlist.m3u8
 #EXTINF:-1 tvg-id="JOTXDTV.jp" tvg-name="TV Tokyo" tvg-logo="https://raw.githubusercontent.com/trevorleung821/jptv-logo/main/tvtokyo.jpg" group-title="Japan",テレビ東京
 https://cdnul194.cloudrsst.com/live/kanto_tv_tokyo_1080/playlist.m3u8
 #EXTINF:-1 tvg-id="NHKBS1.jp" tvg-name="NHK BS1" tvg-logo="https://raw.githubusercontent.com/trevorleung821/jptv-logo/main/bs1.jpg" group-title="Japan",NHK BS1
@@ -21,7 +23,7 @@ https://cdnul194.cloudrsst.com/live/bsnihontv_720/playlist.m3u8
 https://cdnul194.cloudrsst.com/live/bsasahi_720/playlist.m3u8
 #EXTINF:-1 tvg-id="BSTBS.jp" tvg-name="BS TBS" tvg-logo="https://i.imgur.com/C3MK6Tx.png" group-title="Japan",BS-TBS
 https://cdnul194.cloudrsst.com/live/bstbs_720/playlist.m3u8
-#EXTINF:-1 tvg-id="BSTVTokyo.jp" tvg-name="BS TV Tokyo" tvg-logo="https://i.imgur.com/yJfA6ak.png" group-title="Japan",ＢＳテレ東
+#EXTINF:-1 tvg-id="BSTVTokyo.jp" tvg-name="BS TV Tokyo" tvg-logo="https://i.imgur.com/yJfA6ak.png" group-title="Japan",BSテレ東
 https://cdnul194.cloudrsst.com/live/bsjapan_720/playlist.m3u8
 #EXTINF:-1 tvg-id="BSFuji.jp" tvg-name="BS Fuji TV" tvg-logo="https://i.imgur.com/LyrhEz0.png" group-title="Japan",BSフジ
 https://cdnul194.cloudrsst.com/live/bsfuji_720/playlist.m3u8
