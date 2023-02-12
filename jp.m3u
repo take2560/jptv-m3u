@@ -70,7 +70,7 @@ https://cdnul194.cloudrsst.com/live/kanto_tbs_720/playlist.m3u8
 #EXTINF:-1 tvg-id="JOCXDTV.jp" tvg-name="FujiTV" tvg-logo="https://raw.githubusercontent.com/trevorleung821/jptv-logo/main/fujitv.jpg" group-title="Japan",フジテレビ (720p)
 https://cdnul194.cloudrsst.com/live/kanto_fuji_720/playlist.m3u8
 #EXTINF:-1 tvg-id="TVAsahi.jp" tvg-name="TV Asahi" tvg-logo="https://raw.githubusercontent.com/trevorleung821/jptv-logo/main/tvasahi.jpg" group-title="Japan",テレビ朝日 (720p)
-https://cdn-th136.cloudrsst.com/live/kanto_tv_asahi_720/playlist.m3u8
+https://cdnul194.cloudrsst.com/live/kanto_tv_asahi_720/playlist.m3u8
 #EXTINF:-1 tvg-id="JOTXDTV.jp" tvg-name="TV Tokyo" tvg-logo="https://raw.githubusercontent.com/trevorleung821/jptv-logo/main/tvtokyo.jpg" group-title="Japan",テレビ東京 (720p)
 https://cdnul194.cloudrsst.com/live/kanto_tv_tokyo_720/playlist.m3u8
 #EXTINF:-1 tvg-id="CNNInternationalAsiaPacific.hk" tvg-name="CNN International" tvg-logo="https://i.imgur.com/05S3yYZ.png" group-title="United States",CNN International
