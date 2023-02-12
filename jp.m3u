@@ -59,6 +59,20 @@ http://movie.mcas.jp/mcas/wn1_2/master.m3u8
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/watch?v=z--rbRvXOSs
 #EXTINF:-1 tvg-id="NHKWorldJapan.jp" tvg-name="NHK World" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/NHK_World-Japan_TV.svg/512px-NHK_World-Japan_TV.svg.png" group-title="Japan",NHK World
 https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
+#EXTINF:-1 tvg-id="NHKGeneralTV.jp" tvg-name="NHK General" tvg-logo="https://raw.githubusercontent.com/trevorleung821/jptv-logo/main/nhkg.jpg" group-title="Japan",NHK総合 (720p)
+https://cdnul194.cloudrsst.com/live/kanto_nhk_g_720/playlist.m3u8
+#EXTINF:-1 tvg-id="NHKEducationalTV.jp" tvg-name="NHK Education" tvg-logo="https://i.imgur.com/H1XYhAt.png" group-title="Japan",NHKEテレ (720p)
+https://cdnul194.cloudrsst.com/live/kanto_nhk_edu_720/playlist.m3u8
+#EXTINF:-1 tvg-id="NipponTV.jp" tvg-name="NTV" tvg-logo="https://raw.githubusercontent.com/trevorleung821/jptv-logo/main/ntv.jpg" group-title="Japan",日テレ (720p)
+https://cdnul194.cloudrsst.com/live/kanto_nippon_720/playlist.m3u8
+#EXTINF:-1 tvg-id="JORXDTV.jp" tvg-name="TBS" tvg-logo="https://raw.githubusercontent.com/trevorleung821/jptv-logo/main/tbs.jpg" group-title="Japan",TBS (720p)
+https://cdnul194.cloudrsst.com/live/kanto_tbs_720/playlist.m3u8
+#EXTINF:-1 tvg-id="JOCXDTV.jp" tvg-name="FujiTV" tvg-logo="https://raw.githubusercontent.com/trevorleung821/jptv-logo/main/fujitv.jpg" group-title="Japan",フジテレビ (720p)
+https://cdnul194.cloudrsst.com/live/kanto_fuji_720/playlist.m3u8
+#EXTINF:-1 tvg-id="TVAsahi.jp" tvg-name="TV Asahi" tvg-logo="https://raw.githubusercontent.com/trevorleung821/jptv-logo/main/tvasahi.jpg" group-title="Japan",テレビ朝日 (720p)
+https://cdn-th136.cloudrsst.com/live/kanto_tv_asahi_720/playlist.m3u8
+#EXTINF:-1 tvg-id="JOTXDTV.jp" tvg-name="TV Tokyo" tvg-logo="https://raw.githubusercontent.com/trevorleung821/jptv-logo/main/tvtokyo.jpg" group-title="Japan",テレビ東京 (720p)
+https://cdnul194.cloudrsst.com/live/kanto_tv_tokyo_720/playlist.m3u8
 #EXTINF:-1 tvg-id="CNNInternationalAsiaPacific.hk" tvg-name="CNN International" tvg-logo="https://i.imgur.com/05S3yYZ.png" group-title="United States",CNN International
 https://cnn-cnninternational-1-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="CNN.us" tvg-name="CNN US" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/512px-CNN.svg.png" group-title="United States",CNN US
